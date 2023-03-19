@@ -1,0 +1,3 @@
+C:/Users/jonyz/CLionProjects/assigment_2/cmake-build-debug/CMakeFiles/assigment_2.dir
+C:/Users/jonyz/CLionProjects/assigment_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonyz/CLionProjects/assigment_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
