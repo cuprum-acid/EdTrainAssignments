@@ -12,7 +12,7 @@ Alphabetical sorting of names from a text file.
 
 In this assignment you will need to design a family of calculators using OOP principles. The UML class diagram demonstrates the minimal set of classes which you should implement, you can extend this functionality as you wish. You are NOT allowed to modify the names or signatures of UML diagram classes, methods and fields.
 
-![The Assignment UML class diagram.](/images/picture.png "The Assignment UML class diagram.")
+![The Assignment UML class diagram.](picture.png "The Assignment UML class diagram.")
 
 The first line of standard input should contain one of three words: `DOUBLE`, `INTEGER`, `STRING`. The next line will contain the integer number **_N (1≤N≤50)_** defining the total amount of commands. After that, the input will <ins>always</ins> contain exactly **_N_** lines with commands calculator should perform:
 * The "+" command means the calculator should either sum up two numbers or concatenate two strings, and print the result to the output.
